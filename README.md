@@ -29,24 +29,24 @@ Ouvrez Google Chrome et allez dans chrome://extensions/.
 
 
 ## 🚀 Utilisation
-Cliquez sur l'icône Cache Manager dans la barre d'outils de Chrome.
-La fenêtre popup s'ouvre et affiche des informations sur le cache actuel. (La taille du cache peut ne pas s'afficher en raison des limitations de l'API Chrome).
-Cliquez sur Effacer le cache pour supprimer les fichiers en cache.
+Cliquez sur l'icône Cache Manager dans la barre d'outils de Chrome.  
+La fenêtre popup s'ouvre et affiche des informations sur le cache actuel. (La taille du cache peut ne pas s'afficher en raison des limitations de l'API Chrome).  
+Cliquez sur Effacer le cache pour supprimer les fichiers en cache.  
 Un message de confirmation s'affiche pour indiquer le succès de l'opération.    
 
 ## 🔐 Permissions  
 L'extension nécessite les autorisations suivantes :
 
-browsingData : Pour permettre l'effacement du cache.
-activeTab : Pour accéder à l'onglet actif lors de l'utilisation de l'extension.
-declarativeNetRequest : Pour gérer les données de navigation.
+browsingData : Pour permettre l'effacement du cache.  
+activeTab : Pour accéder à l'onglet actif lors de l'utilisation de l'extension.  
+declarativeNetRequest : Pour gérer les données de navigation.  
 storage : Pour stocker temporairement certaines informations si nécessaire.  
 
 ## 📂 Fichiers principaux    
 
-manifest.json : Le fichier de configuration qui décrit les permissions et les ressources de l'extension.
-popup.html : Le fichier HTML responsable de l'interface utilisateur.
-popup.js : Le script JavaScript qui gère les actions de l'utilisateur (affichage de la taille du cache et effacement).
+manifest.json : Le fichier de configuration qui décrit les permissions et les ressources de l'extension.  
+popup.html : Le fichier HTML responsable de l'interface utilisateur.  
+popup.js : Le script JavaScript qui gère les actions de l'utilisateur (affichage de la taille du cache et effacement).  
 background.js : Gère l'effacement du cache via les APIs Chrome.  
 
 ## ⚠️ Limitations  
@@ -54,7 +54,7 @@ L'API Chrome ne permet pas de récupérer la taille exacte du cache du navigateu
 Cette extension fonctionne uniquement sur Google Chrome ou les navigateurs basés sur Chromium.  
 
 ## 🤝 Contribution  
-Les contributions sont les bienvenues ! Si vous souhaitez ajouter des fonctionnalités ou améliorer le code existant, veuillez ouvrir une issue ou soumettre une pull request.
+Les contributions sont les bienvenues ! Si vous souhaitez ajouter des fonctionnalités ou améliorer le code existant, veuillez ouvrir une issue ou soumettre une pull request.  
 
 ## 📄 Licence  
 Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
