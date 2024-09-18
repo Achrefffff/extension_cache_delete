@@ -1,8 +1,8 @@
-# 🚀 Cache Manager Extension
+# 🚀 Cache Delete Extension
 
 ## 📝 Description  
 
-**Cache Manager** est une extension Chrome légère et performante qui vous permet de visualiser et de gérer facilement les fichiers mis en cache par votre navigateur. Cette extension est idéale pour ceux qui souhaitent garder leur navigateur rapide et propre en gérant efficacement leur cache.
+**Cache Delete** est une extension Chrome légère et performante qui vous permet de visualiser et de gérer facilement les fichiers mis en cache par votre navigateur. Cette extension est idéale pour ceux qui souhaitent garder leur navigateur rapide et propre en gérant efficacement leur cache.
 
 ---
 
