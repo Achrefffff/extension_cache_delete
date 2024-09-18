@@ -18,7 +18,7 @@
 
 1. Clonez ou téléchargez ce dépôt sur votre machine :
    ```bash
-   git clone https://github.com/votre-utilisateur/cache-manager-extension.git
+   git clone https://github.com/Achrefffff/extension_cache_delete
 Ouvrez Google Chrome et allez dans chrome://extensions/.
 
 2. Activez le Mode développeur (coin supérieur droit).
